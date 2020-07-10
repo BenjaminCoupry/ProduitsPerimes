@@ -1,0 +1,26 @@
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.Properties.Resources.resources
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.exe
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.pdb
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.Form.resources
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.Form.fr.resources
+C:\Users\benja\Desktop\ProduitsPerimes.exe.config
+C:\Users\benja\Desktop\ProduitsPerimes.exe
+C:\Users\benja\Desktop\ProduitsPerimes.pdb
+C:\Users\benja\Desktop\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\Documents\Visual Studio 2010\Projects\Perimes\ProduitsPerimes.exe.config
+C:\Users\benja\Documents\Visual Studio 2010\Projects\Perimes\ProduitsPerimes.exe
+C:\Users\benja\Documents\Visual Studio 2010\Projects\Perimes\ProduitsPerimes.pdb
+C:\Users\benja\Documents\Visual Studio 2010\Projects\Perimes\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.csproj.ResolveComReference.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\ProduitsPerimes.exe.config
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\ProduitsPerimes.exe
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\ProduitsPerimes.pdb
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\ProduitsPerimes.exe.manifest
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\ProduitsPerimes.application
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.exe.manifest
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Debug\ProduitsPerimes.application

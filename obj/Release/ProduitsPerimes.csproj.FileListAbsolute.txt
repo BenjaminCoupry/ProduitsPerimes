@@ -1,0 +1,17 @@
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\ProduitsPerimes.exe.config
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\ProduitsPerimes.exe.manifest
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\ProduitsPerimes.application
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\ProduitsPerimes.exe
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\ProduitsPerimes.pdb
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\bin\Release\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.csproj.ResolveComReference.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.Form.resources
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.Properties.Resources.resources
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.Form.fr.resources
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\fr\ProduitsPerimes.resources.dll
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.exe.manifest
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.application
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.exe
+C:\Users\benja\source\repos\ProduitsPerimes\ProduitsPerimes\obj\Release\ProduitsPerimes.pdb
